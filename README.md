@@ -13,13 +13,14 @@
 
 3.**Data Fields to Extract:**
 
-**Business Information:** Business name, address, phone number, website URL, rating, and the number of reviews.
+   **Business Information:** Business name, address, phone number, website URL, rating, and the number of reviews.
 
-**Additional Details:** Business description, hours of operation, email address, categories, service areas, opening year, payment methods, owner name, and social media links (Facebook, Twitter, Instagram, YouTube, LinkedIn).
+   **Additional Details:** Business description, hours of operation, email address, categories, service areas, opening year, payment methods, owner name, and social media 
+     links (Facebook, Twitter, Instagram, YouTube, LinkedIn).
 
-**Business Photos:** You’ll need to collect up to 10 business photos and ensure the links are hosted on a server or Dropbox.
+   **Business Photos:** You’ll need to collect up to 10 business photos and ensure the links are hosted on a server or Dropbox.
 
-**Other:** Information such as fax numbers, alternate phone numbers, products and services, and company size.
+   **Other:** Information such as fax numbers, alternate phone numbers, products and services, and company size.
 
 4.**Image Hosting:** After scraping the business images/logos, you’ll need to download and upload them to a hosting platform like Dropbox. The hosted URLs for these images should be added to the spreadsheet.
 
