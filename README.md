@@ -13,7 +13,7 @@
 
 3.**Data Fields to Extract:**
 
-**Business Information: **Business name, address, phone number, website URL, rating, and the number of reviews.
+**Business Information:** Business name, address, phone number, website URL, rating, and the number of reviews.
 
 **Additional Details:** Business description, hours of operation, email address, categories, service areas, opening year, payment methods, owner name, and social media links (Facebook, Twitter, Instagram, YouTube, LinkedIn).
 
@@ -21,10 +21,10 @@
 
 **Other:** Information such as fax numbers, alternate phone numbers, products and services, and company size.
 
-**4.Image Hosting: **After scraping the business images/logos, you’ll need to download and upload them to a hosting platform like Dropbox. The hosted URLs for these images should be added to the spreadsheet.
+4.**Image Hosting:** After scraping the business images/logos, you’ll need to download and upload them to a hosting platform like Dropbox. The hosted URLs for these images should be added to the spreadsheet.
 
 
-5**.Output Formatting:** The scraped data must be formatted into a structured spreadsheet with clearly defined columns (e.g., Name, Address, Phone, Website, Ratings, Reviews, Description, Business Hours, etc.).
+5.**Output Formatting**:The scraped data must be formatted into a structured spreadsheet with clearly defined columns (e.g., Name, Address, Phone, Website, Ratings, Reviews, Description, Business Hours, etc.).
 
 
-6.**Scale: **Since this involves scraping a large volume of data (176,220 businesses), the project must handle a high number of requests efficiently and ensure that the data is collected accurately without duplicate entries or missing fields.
+6.**Scale:** Since this involves scraping a large volume of data (176,220 businesses), the project must handle a high number of requests efficiently and ensure that the data is collected accurately without duplicate entries or missing fields.
